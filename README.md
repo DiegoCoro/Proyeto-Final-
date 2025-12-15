@@ -1,2 +1,1 @@
-# Proyeto-Final-
-Pagina Web Creaciones by Rose Matias Irizar
+Proyecto final de pagina web, usando la estructura semantica del html , mejorandola con css y javascript y organizandola con la etiqueta header main y footer
